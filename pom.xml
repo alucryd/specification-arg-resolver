@@ -311,11 +311,11 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus-snapshots</id>
-			<url>http://svlvdmutful02:8082/repository/maven-snapshots</url>
+			<url>http://svlvic02.vlv.arvato.fr:8081/repository/maven-snapshots</url>
 		</snapshotRepository>
 		<repository>
 			<id>nexus-releases</id>
-			<url>http://svlvdmutful02:8082/repository/maven-releases</url>
+			<url>http://svlvic02.vlv.arvato.fr:8081/repository/maven-releases</url>
 		</repository>
 	</distributionManagement>
 </project>
