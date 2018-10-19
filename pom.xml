@@ -34,9 +34,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/tkaczmarzyk/specification-arg-resolver.git</connection>
-		<url>scm:git:https://github.com/tkaczmarzyk/specification-arg-resolver.git</url>
-		<developerConnection>scm:git:https://github.com/tkaczmarzyk/specification-arg-resolver.git</developerConnection>
+		<connection>scm:git:git@svlvic02.vlv.arvato.fr:innovation-group/specification-arg-resolver.git</connection>
+		<url>scm:git:git@svlvic02.vlv.arvato.fr:innovation-group/specification-arg-resolver.git</url>
+		<developerConnection>scm:git:git@svlvic02.vlv.arvato.fr:innovation-group/specification-arg-resolver.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
